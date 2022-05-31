@@ -1,0 +1,291 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Verantwoordelikheid en besigheid</title>
+  <metadata>
+  <md:content-id>m25921</md:content-id><md:title>Verantwoordelikheid en besigheid</md:title>
+  <md:abstract/>
+  <md:uuid>b24daa24-5d8d-456d-8eaf-293cd699538a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4866431">
+      <title>EKONOMIESE EN BESTUURSWETENSKAPPE</title>
+      <para id="para-id4866431">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166081107159">
+      <title>Graad 5</title>
+      <para id="para-id1166081107159">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166074548418">
+      <title>EK EN MY BANK</title>
+      <para id="para-id1166074548418">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6662907">
+      <title>Module 8</title>
+      <para id="para-id6662907">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166085124594">
+      <title>VERANTWOORDELIKHEID EN BESIGHEID</title>
+      <para id="para-id1166085124594">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166083459668">
+      <title>MY GELD - MY VERANTWOORDELIKHEID:</title>
+      <para id="id1166082047635">‘n Bank is bloot die agent wat jou geld in jou naam veilig bewaar en sekere transaksies soos deur die kliënt aangevra, uitvoer. Dit bly jou verantwoordelikheid as kliënt om jou geld reg te bestuur.</para>
+      <para id="id1166083247265">Sodra jy ‘n rekening by ‘n bank oopmaak, sal hulle jou maandeliks deur middel van bankstate inlig presies wat jy alles in daardie afgelope maand met jou geld gedoen het en wat jou saldo/balans aan die einde van daardie maand is.</para>
+      <para id="id1166082807521"/>
+      <para id="id1166074408623">Bestudeer die volgende bankstaat en bespreek met jou maat of julle dink dat mnr. De Klerk sy geld verantwoordelik bestuur.</para>
+      <para id="id6548547">SA-BANK</para>
+      <para id="id1166076868127">H DE KLERK SA-BANK</para>
+      <para id="id1166082044885">GROENSTRAAT 5 KAAPSTAD</para>
+      <para id="id1166081043317">KAAPSTAD REKENINGNOMMER : 777756</para>
+      <para id="id1166077636442">8001 </para>
+      <para id="id4697687">HUIDIGE SALDO  : 2 056,11</para>
+      <para id="id1166075250695">STAAT VIR PERIODE  : 18/09/2004 - 25/09/2004</para>
+      <table id="id1166074332763" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>DATUM</entry>
+              <entry>TRANS BESKRYWING</entry>
+              <entry>KOSTE</entry>
+              <entry>BEDRAG</entry>
+              <entry>SALDO</entry>
+            </row>
+            <row>
+              <entry>180904</entry>
+              <entry>SALDO OORGEBRING</entry>
+              <entry/>
+              <entry/>
+              <entry>1 052,66</entry>
+            </row>
+            <row>
+              <entry>180904</entry>
+              <entry>TJEK : 22</entry>
+              <entry>4,50</entry>
+              <entry>234,56</entry>
+              <entry>818,10</entry>
+            </row>
+            <row>
+              <entry>180904</entry>
+              <entry>KONT ONTTREK</entry>
+              <entry>2,40</entry>
+              <entry>150,00</entry>
+              <entry>668,10</entry>
+            </row>
+            <row>
+              <entry>190904</entry>
+              <entry>DEPOSITO:TJEK</entry>
+              <entry>0,59</entry>
+              <entry>278,90</entry>
+              <entry>947,00</entry>
+            </row>
+            <row>
+              <entry>190904</entry>
+              <entry>DEPOSITO:KONTANT</entry>
+              <entry>1,20</entry>
+              <entry>250,76</entry>
+              <entry>1 197,76</entry>
+            </row>
+            <row>
+              <entry>220904</entry>
+              <entry>TJEK : 24</entry>
+              <entry>2,80</entry>
+              <entry>166,80</entry>
+              <entry>1 030,96</entry>
+            </row>
+            <row>
+              <entry>220904</entry>
+              <entry>TJEK : 25</entry>
+              <entry>1,60</entry>
+              <entry>89,99</entry>
+              <entry>940,97</entry>
+            </row>
+            <row>
+              <entry>230904</entry>
+              <entry>DEPOSITO:TJEK</entry>
+              <entry>5,80</entry>
+              <entry>1 958,60</entry>
+              <entry>2 899,57</entry>
+            </row>
+            <row>
+              <entry>230904</entry>
+              <entry>KONT ONTTREK</entry>
+              <entry>5,60</entry>
+              <entry>1 000,00</entry>
+              <entry>1 899,57</entry>
+            </row>
+            <row>
+              <entry>240904</entry>
+              <entry>BANKKOSTE</entry>
+              <entry>0,00</entry>
+              <entry>24,49</entry>
+              <entry>1 875,08</entry>
+            </row>
+            <row>
+              <entry>240904</entry>
+              <entry>TJEK : 23</entry>
+              <entry>7,80</entry>
+              <entry>1 278,60</entry>
+              <entry>596,48</entry>
+            </row>
+            <row>
+              <entry>250904</entry>
+              <entry>ACB KREDIET</entry>
+              <entry>0,00</entry>
+              <entry>3 500,00</entry>
+              <entry>4 096,48</entry>
+            </row>
+            <row>
+              <entry>250904</entry>
+              <entry>TJEK : 26</entry>
+              <entry>7,80</entry>
+              <entry>1 875,99</entry>
+              <entry>2 220,49</entry>
+            </row>
+            <row>
+              <entry>250904</entry>
+              <entry>KONT ONTTREK</entry>
+              <entry>2,80</entry>
+              <entry>164,38</entry>
+              <entry>2 056,11</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1166082582462">EINDE VAN NAVRAAG 25/09/2004 11:23:20</para>
+      <para id="id1166074326658">Het jy reeds die finale saldo bereken?</para>
+      <para id="id1166079701896">Dink jy mnr. De Klerk het genoeg geld in sy rekening om Kersgeskenke te koop?</para>
+      <para id="id1166081201041">Ons gevolgtrekking: </para>
+      <para id="id1166083311805"/>
+      <para id="id1166075120772"/>
+      <para id="id1166074336694"/>
+      <para id="id1166082925045">Gebruik nou die volgende lys transaksies van mnr. De Klerk om ‘n bankstaat vir die maand September saam te stel. Onthou om geld wat uitbetaal is, van die saldo af te trek, terwyl geld wat ontvang is, by die saldo getel word.</para>
+      <para id="id1166083291076">TRANSAKSIES DEUR MNR. H. DE KLERK VIR SEPTEMBER 2004</para>
+      <para id="id1166077324357">1 Sept. Koop speelgoed  Tjek no. 66 R 215,99</para>
+      <para id="id1166077451679">3 Sept. Betaal tuindiens Tjek no. 67 R 150,00</para>
+      <para id="id1166079367374">3 Sept.  Betaal telefoon Tjek no. 68 R 347,56</para>
+      <para id="id1166079585625">4 Sept. Munisipaliteit Tjek no. 69 R 287,90</para>
+      <para id="id1166082216538">5 Sept. Trek kontant  R 500,00</para>
+      <para id="id1166086099652">7 Sept. Brandstof Tjek no. 70 R 185,47</para>
+      <para id="id1166081153131">10 Sept. Kos Tjek no. 71 R 1 245,67</para>
+      <para id="id1166081250778">15 Sept. Ontvang salaris  R 6 899,00</para>
+      <para id="id1166081201901">17 Sept. Ontvang geskenk  R 250,00</para>
+      <para id="id6471334">21 Sept. Motordiens Tjek no. 72 R 1 085,00</para>
+      <para id="id1166074257934">25 Sept. Brandstof Tjek no. 73 R 165,80</para>
+      <para id="id1166082591897">28 Sept. Sakgeld kinders(kontant)  R 170,00</para>
+      <para id="id1166075364010">30 Sept.  Skoolgeld Tjek no. 74 R 855,00</para>
+      <para id="id7054172">30 Sept. Hotel langnaweek Tjek no. 75 R 2 068,00</para>
+    </section>
+    <section id="id1166074246958">
+      <title>[LU 3.4]</title>
+      <para id="para-id1166074246958">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166081027144">
+      <title>‘n Bank – ‘n Besigheid</title>
+      <para id="id4979642">Het jy al ooit só aan ‘n bank gedink?</para>
+      <para id="id1166075782352">‘n Bank verkoop geld sowel as diens aan sy kliënte en staan daagliks in kompetisie met baie ander banke. Hulle moet net soos enige ander besigheid die potensiële kliënt se aandag op hulle vestig.</para>
+      <para id="id1166077833820">Die “produk”, naamlik geld, kan nie verbeter of meer aantreklik gemaak word nie. Geld is geld. ‘n Bank kan nie besluit om die geld met verskillende kleure randjies te druk sodat dit die aandag van jongmense trek nie.</para>
+      <para id="id4024261">Daarom moet ‘n bank op die ander aspek, naamlik DIENS, konsentreer. Hóé word hierdie geld aan die kliënt beskikbaar gestel en wát is die kwaliteit aandag wat die bank aan sy kliënte gee?</para>
+      <list id="id4877897" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Inligtingsbrosjures</item>
+      </list>
+      <para id="id1017207">By elke bank is daar vele kleurvolle brosjures wat die spesifieke werking van al die bank se fasiliteite verduidelik. So gee hul meer inligting oor:</para>
+      <para id="id5501420">OTM-veiligheid</para>
+      <para id="id1166083417232">kredietkaartbestuur</para>
+      <para id="id1166082513865">hoe om vir krediet aansoek te doen</para>
+      <para id="id1166075203448">die voordele en aard van tjekrekenings</para>
+      <para id="id1166088374733">hoe die bank jou eie besigheid kan help</para>
+      <para id="id1166075149142">hoe om jou eie finansies te beplan en te bestuur</para>
+      <para id="id5723792">Kyk of jy na jou plaaslike bank(e) kan gaan en versamel van hierdie brosjures.</para>
+      <list id="id7803328" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Bemarking</item>
+      </list>
+      <para id="id1166087461077">‘n Bank gebruik verskeie strategieë om sy diens te bemark.</para>
+      <list id="id4172538" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>Teikengroepe</item>
+      </list>
+      <para id="id1166087479158">‘n Bank verdeel sy kliënte in verskillende groepe volgens ouderdom en belangstelling. So kry jy bv. spesiale pakkette wat aan jongmense en kleuters aangebied word.</para>
+      <para id="id2382230">Luister bv. na die volgende vrae en stellings wat deur ‘n finansiële instelling gemaak word:</para>
+      <para id="id5633732">Wees jou eie bankier op 12!</para>
+      <para id="id8061920">Wil jy as tiener jou eie geld kan bestuur?</para>
+      <para id="id1166082861782">Wil jy sien hoe die geld in jou rekening groei?</para>
+      <para id="id1166082470703">Vra jou ouers om jou toelae in jou Megaspaarrekening in te betaal.</para>
+      <para id="id5502920">Gebruik jou Megakaart vir kontantonttrekkings.</para>
+      <para id="id8392747">Trek eenvoudig jou kaart deur die terminaal en betaal!</para>
+      <para id="id1166086416274">Dit klink só maklik. Veral vir ‘n tiener!</para>
+      <para id="id1166088253192">Die sportmanne en -vroue word ook geteiken. So vind jy kaarte wat spesiaal vir fietsry-entoesiaste beskikbaar is, en een vir Comrades-ondersteuners. Daar is “Currie Cup” -rente vir voertuigfinansiering en vele meer.</para>
+      <para id="id4739557">Die bejaardes word ook geteiken. Ons kyk na ‘n spesiale plan vir begrafnisse, sowel as spesiale rentekoerse vir afgetredenes.</para>
+      <para id="id1166081319623">Versamel soveel as moontlik van hierdie soort bemarkingspamflette. Jy sal dit by banke, in die pos en media (koeverte &amp; tydskrifte) kry. Vergelyk dit met mekaar en kyk of daar een spesifieke bank / finansiële instelling is wat jou meer beïndruk as die ander.</para>
+      <list id="id1166077510470" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>Kompetisies</item>
+      </list>
+      <para id="id1166085226029">“Gebruik jou kredietkaart hierdie maand vir aankope van R2 000 of meer, en staan ‘n kans om een van die volgende fantastiese pryse te wen:</para>
+      <para id="id8298642">2 Mercedes C-klas</para>
+      <para id="id1166081340360">1 dubbel-eersteklas vliegkaartjie na enige wêreldbestemming.</para>
+      <para id="id1166088307264">7 dae in Mauritius vir 2.”</para>
+      <para id="id1166081067051"><figure id="id1166082211620"><media id="id1166082211620_media" alt=""><image mime-type="image/png" src="../../media/graphics1-985c.png" id="id1166082211620__onlineimage" height="232" width="413"/></media></figure>Klink fantasties, né!Kom ons gaan koop!</para>
+      <para id="id1166082543196"/>
+      <para id="id1166083848166">Groepwerk</para>
+      <para id="id1166083383692">Bespreek in julle groepe waarom ‘n bank juis die gebruik van kredietkaarte d.m.v. sulke kompetisies aanmoedig:</para>
+      <para id="id1166075566967">[LU 4.5]</para>
+      <list id="id1166082861496" list-type="enumerated" number-style="lower-roman" mark-prefix="(" mark-suffix=")">
+        <item>Kompetisietyd!</item>
+      </list>
+      <para id="id7855803">Deel in groepe van jul eie keuse.</para>
+      <para id="id1797243">Stig ‘n bank van jul eie.</para>
+      <para id="id6476140">Besluit op ‘n naam en logo vir jul bank.</para>
+      <para id="id1699107">Bemark jou bank d.m.v. brosjures, advertensies en plakkate. (Jy moet jou bank aan die publiek “verkoop”.)</para>
+      <para id="id6535626">Stel ‘n paneel saam om die “beste bank” in die klas aan te wys op grond van die bemarking van elke groep.</para>
+      <para id="id1166088213782">[LU 4.5]</para>
+    </section>
+    <section id="id1166082374506">
+      <title>Assessering</title>
+      <para id="id1166075463911">LU 3 </para>
+      <para id="id5532673">Bestuurs-, Verbruikers- en Finansiële Kennis en Vaardighede</para>
+      <para id="id1166084149526">Die leerder is in staat om kennis en die vermoë te toon om verskeie bestuurs-, verbruikers- en finansiële vaardighede toe te pas.</para>
+      <para id="id1166088194925">
+        <emphasis effect="italics">Ons weet dit as die leerder die volgende doen</emphasis>
+        <emphasis effect="italics">:</emphasis>
+      </para>
+      <para id="id1166083271044">3.3 vind uit en bespreek hoe ‘n spaarrekening by ‘n bank oopgemaak word en vul ‘n deposiito- en onttrekkingstrokie in;</para>
+      <para id="id4264968">3.4 bespreek die waarde daarvan om geld te spaar en spaarsaam te wees, en waarom mense in wie se basiese behoeftes nie voorsien wrd nie, dit moeilik vind om te spaar.</para>
+      <para id="id1166080477456">LU 4</para>
+      <para id="id1166082452715">ENTREPRENEURSKENNIS EN -VAARDIGHEDE</para>
+      <para id="id3054288">Die leerder is in staat om entrepreneurskennis, -vaardighede en -houdings te </para>
+      <para id="id1166082669956">ontwikkel.</para>
+      <para id="id5427063">Dit is duidelik wanneer die leerder die volgende doen:</para>
+      <para id="id1166083221121">4.1 identifiseer die spesifieke entrepreneursvaardighede wat nodig is om toeriste na eie gemeenskap te lok.</para>
+      <para id="id8586034">4.2 ontwikkel en gebruik waarnemingsblaaie en vraelyste om ‘n behoeftebepaling in die skool of gemeenskap te doen.</para>
+    </section>
+    <section id="id6294828">
+      <title>Memorandum</title>
+      <list id="id5633658" list-type="bulleted">
+        <item>Opvoeder fasiliteer. Let op na grootte van bedrae wat spandeer is. Is daar ‘n balans tussen geld ontvang en geld spandeer?</item>
+      </list>
+      <para id="id1166087402874"/>
+      <list id="id1166087445490" list-type="bulleted">
+        <item>Stel ‘n bankstaat op met behulp van vorige voorbeeld.</item>
+      </list>
+      <para id="id1166076440880">Groepwerk:</para>
+      <list id="id1166077705798" list-type="bulleted">
+        <item>Rente = inkomste vir bank</item>
+      </list>
+    </section>
+  </content>
+</document>
