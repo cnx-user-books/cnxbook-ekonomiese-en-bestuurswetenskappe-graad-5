@@ -1,3 +1,41 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10973</md:content-id>  <md:title>Ekonomiese en Bestuurswetenskappe Graad 5</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>42ca895e-e574-4536-8826-933a994712e1</md:uuid>
-<md:slug>ekonomiese-en-bestuurswetenskappe-graad-5</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m25974"/>                            <col:module document="m25903"/>                            <col:module document="m25979"/>                                          <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                  </col:content>      </col:subcollection>            </col:content>      </col:subcollection>              <col:module document="m25981"/>                            <col:module document="m25984"/>                                          <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                  </col:content>      </col:subcollection>              <col:module document="m25985"/>                            <col:module document="m25988"/>                            <col:module document="m25921"/>                                          <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                  </col:content>      </col:subcollection>              <col:module document="m26001"/>                            <col:module document="m26006"/>                            <col:module document="m25996"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10973</md:content-id>
+    <md:title>Ekonomiese en Bestuurswetenskappe Graad 5</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>42ca895e-e574-4536-8826-933a994712e1</md:uuid>
+    <md:slug>ekonomiese-en-bestuurswetenskappe-graad-5</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m25974"/>
+        <col:module document="m25903"/>
+        <col:module document="m25979"/>
+        <col:subcollection>
+          <md:title>Kwartaal 2</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m25981"/>
+    <col:module document="m25984"/>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:module document="m25985"/>
+    <col:module document="m25988"/>
+    <col:module document="m25921"/>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:module document="m26001"/>
+    <col:module document="m26006"/>
+    <col:module document="m25996"/>
+  </col:content>
+</col:collection>
